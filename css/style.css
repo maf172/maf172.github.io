@@ -1,4 +1,4 @@
-/*! normalize.css v6.0.0 | MIT License | github.com/necolas/normalize.css */
+  /*! normalize.css v6.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
 /**
@@ -395,7 +395,7 @@ body {
 
 @media (min-width: 43.75em) {
   body {
-    font-size: 1em;
+    font-size: 5em;
     /* equivalent to 16px */
     line-height: 1.375;
     /* equivalent to 22px */ } }
