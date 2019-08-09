@@ -100,7 +100,7 @@ Agora, abra o Rstudio
 knitr::include_graphics("Figuras/Fig10.png")
 ```
 
-Clique em "Tools", em "Git/SVN" e depois em create RSA Key
+Clique em "Tools", depois em "global options", em seguida em "Git/SVN" e depois em create RSA Key
 
 ```{r, out.width = "1000px", fig.align='center'}
 knitr::include_graphics("Figuras/Fig11.png")
