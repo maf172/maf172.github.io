@@ -18,4 +18,4 @@ description: Página com as aulas da disciplina.
 ---
 
 [maf172-gh]:https://github.com/maf172
-[aula1]:    https://raw.githack.com/maf172.github.io/master/Aulas_MAF172/Aula1/aula1.html
+[aula1]:    https://raw.githack.com/maf172/maf172.github.io/master/Aulas_MAF172/Aula1/aula1.html
