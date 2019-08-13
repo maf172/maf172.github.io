@@ -290,4 +290,5 @@ Fiz um novo `commit` e um `push`
 knitr::include_graphics("Figuras/Fig43.png")
 ```
 
+Se quiser saber mais sobre o assunto [clique aqui](https://lmgtfy.com/?q=criar páginas no github com jeckyll themes)
 
