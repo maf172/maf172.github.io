@@ -1,5 +1,6 @@
 ---
 layout: home
+background: '/img/bg-index.jpg'
 title: Cronograma das Disciplinas MAF 172 e MAT 872
  classes: wide
 ---
