@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: splash
 title: Cronograma das Disciplinas MAF 172 e MAT 872
 ---
 
