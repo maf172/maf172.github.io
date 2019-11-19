@@ -1,6 +1,9 @@
 ---
 layout: splash
 title: Cronograma das Disciplinas MAF 172 e MAT 872
+classes:
+  - landing
+  - dark-theme
 ---
 
 <h1 class="pageTitle">Matemática Computacional</h1>
