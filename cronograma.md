@@ -1,10 +1,10 @@
 ---
-layout: single
+layout: home
 title: Cronograma das Disciplinas MAF 172 e MAT 872
  classes: wide
 ---
 
-<h1 class="pageTitle">Matemática Computacional</h1>
+<h1 align="center" class="pageTitle">Matemática Computacional</h1>
 
 <DIV align="center"><CENTER>
 <TABLE border="1" cellpadding="5" cellspacing="0">
