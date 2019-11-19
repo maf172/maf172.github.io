@@ -1,0 +1,58 @@
+---
+title: "Links"
+author: "Lívia de Carvalho Faria"
+date: "24/09/2019"
+output: 
+ html_document:
+  toc: yes
+  code_folding: hide
+  theme: darkly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Esse post é dedicado para indicar links essenciais para os matemáticos.
+
+## Portal Brasileiro de Dados Abertos 
+<p>
+<http://dados.gov.br>
+<p>
+O Portal Brasileiro de Dados Abertos é a ferramenta disponibilizada pelo governo para que todos possam encontrar e utilizar os dados e as informações públicas. O portal preza pela simplicidade e organização para que você possa encontrar facilmente os dados e informações que precisa. O portal também tem o objetivo de promover a interlocução entre atores da sociedade e com o governo para pensar a melhior utilização dos dados, promovendo impactos positivos sob os pontos de vista social e econômico.
+
+## Conselho Nacional de Desenvolvimento Científico e Tecnológico 
+<p>
+<http://www.cnpq.br>
+<p>
+Criado em 1951 para promover e estimular o desenvolvimento da ciência, o Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) é uma instituição ligada ao Ministério da Ciência e Tecnologia (MCT) que se destina ao fomento da pesquisa científica e tecnológica e também à formação e qualificação de pesquisadores no país e no exterior.
+
+## Khan Academy 
+<p>
+<https://pt.khanacademy.org/>
+<p>
+A Khan Academy é a maior plataforma do mundo para estudar matemática. Completamente gratuita e com conteúdo para todas as idades.
+
+## Sociedade brasileira de matemática
+<p>
+<https://www.sbm.org.br>
+<p>
+A SBM tem por principais finalidades congregar os matemáticos e professores de Matemática do Brasil, estimular a realização e divulgação de pesquisa de alto nível em Matemática, contribuir para a melhoria do ensino de Matemática em todos os níveis, estimular a disseminação de conhecimentos de Matemática na sociedade, incentivar e promover o intercâmbio entre os profissionais de Matemática do Brasil e do exterior, zelar pela liberdade de ensino e pesquisa, bem como pelos interesses científicos e profissionais dos matemáticos e professores de Matemática no país, contribuir para o constante aprimoramento de altos padrões de trabalho e formação científica em Matemática no Brasil e oferecer assessoria e colaboração, na área de Matemática, visando o desenvolvimento nacional.
+
+##  Instituto de Matemática Pura e Aplicada
+<p>
+<https://impa.br>
+<p>
+O Instituto de Matemática Pura e Aplicada (IMPA) é uma unidade de ensino e pesquisa qualificada como Organização Social vinculada ao Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC) e ao Ministério da Educação (MEC).
+
+## Sociedade Brasileira de Educação Matemática
+<p>
+<http://www.sbembrasil.org.br>
+<p>
+A SBEM tem como finalidade ampla buscar meios para desenvolver a formação matemática de todo cidadão de nosso país. Para isso, ela congrega profissionais e alunos envolvidos com a área de Educação Matemática e com áreas afins e procura promover o desenvolvimento desse ramo do conhecimento científico, por meio do estímulo às atividades de pesquisa e de estudos acadêmicos. É também objetivo da SBEM a difusão ampla de informações e de conhecimentos nas inúmeras vertentes da Educação Matemática.
+
+## International Mathematical Union
+<p>
+<https://www.mathunion.org>
+<p>
+A IMU é uma organização científica internacional, não governamental e sem fins lucrativos, com o objetivo de promover a cooperação internacional em matemática. É membro do Conselho Internacional de Ciência (ISC), criado em 2018 como resultado de uma fusão entre o Conselho Internacional de Ciência (ICSU) e o Conselho Internacional de Ciência Social (ISSC). A IMU endossou repetidamente o Princípio de Liberdade, Responsabilidade e Universalidade da Ciência do ICSU .

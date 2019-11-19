@@ -1,0 +1,128 @@
+---
+title: "CORRIDA DAS OPERAÇÕES"
+author: "Ana Librelon"
+date: "26/09/2019"
+output: html_document
+code_folding: hide
+theme: journal
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<div style='text-align:justify;'>
+
+![](A.S.M.D 2.0.png)
+
+### TIPO
+
+
+Quadro, mesa e tabuleiro.
+
+
+### OBJETIVO 
+
+
+Efetuar as quatro principais operações matemáticas (adição,
+subtração, multiplicação e divisão) para chegar à última casa do tabuleiro
+indicada pelo número 5 (cinco).
+
+
+### COMPONENTES DO JOGO
+
+
+Tabuleiro
+
+Três dados pequenos
+
+Uma garrafa pet 250 ml transparente
+
+Envelopes numerados de 1 a 5
+
+Fichas de E.V.A colorido.
+
+
+### DESENVOLVIMENTO
+
+
+Os alunos deverão ser divididos em equipes com cores distintas. Selecionadas
+as equipes em ordem para iniciar o jogo, inicia-se com a primeira cor
+selecionada. Cada equipe joga os três dados e de acordo com o resultado de
+cada dado, a equipe deve fazer um cálculo mentalmente, utilizando as
+operações matemáticas (duas operações diferentes ou iguais) cujo resultado
+seja o número referente ao da casa em que se encontra. Na primeira casa
+deve-se obter o resultado 1 (um) e assim, sucessivamente, até chegar ao final,
+na casa 5 (cinco).
+
+
+### EXEMPLO 
+
+
+Se nos dados saírem os números 4, 5 e 2 poderíamos obter os
+seguintes resultados
+
+
+4 + 2 - 5 = 1
+
+4 - (5 - 2) = 1
+
+2 x (5 - 4) = 2
+
+2 / (5 - 4) = 2
+
+5 - (4/2) = 3
+
+2 x 4 - 5 = 3
+
+
+Com essa configuração não é possível encontrar os resultados 4 e 5.
+
+
+
+Ao acertar, a equipe avança no percurso, porém, se errar, não avança e passa
+a vez para a próxima equipe (essa penalidade fica a critério do aplicador do
+jogo). Para avançar, deve-se respeitar a sequência de 01 a 05, ou seja, o
+jogador ou equipe não pode “pular” as casas. A cada casa percorrida coloca-se
+uma ficha de E.V.A na cor da equipe. É necessário que o resultado dessa
+operação seja **exatamente** o número da casa em que se encontra o jogador ou
+equipe, ou então ele permanece no local onde está até conseguir encontrar o
+resultado. Vence quem conseguir chegar até o número 05 primeiro. Há também
+a opção de delimitar o tempo para cada jogada, assim os jogadores devem
+tentar fazer o cálculo o mais rápido possível.
+
+
+### OBJETIVO PEDAGÓGICO
+
+
+O Jogo tem como objetivo trabalhar o raciocínio lógico, fazendo com que o
+aluno desenvolva agilidade e rapidez para calcular mentalmente e solucionar
+as questões propostas.
+
+
+### DISCUSSÃO
+
+
+O público-alvo são alunos do Ensino Fundamental, a partir do 6º (sexto)
+ano, pois é quando teoricamente os alunos já compreendem as quatro
+operações.
+Com a aplicação do jogo é possível notar algumas dificuldades dos
+alunos, dentre elas dificuldade em identificar e utilizar a operação
+adequada para resolver uma dada situação-problema; desenvolver
+estratégias de verificação e controle de resultados através do cálculo
+mental e compreender e resolver situações-problemas utilizando
+expressões numéricas.
+O tabuleiro pode ser de madeira, papelão, isopor, encapar a gosto com
+papel presente ou cartolina, fazer as fileiras numeradas de 01 a 05. Para
+diferenciar as equipes é possível utilizar também tampas de garrafas
+descartáveis, ou qualquer outro objeto que possa marcar a casa onde a
+equipe se encontra.
+
+
+### REFERÊNCIA
+
+
+GOMES, Vagno Barbosa; NUNES, Ione Cristina Vieira. A utilização do Jogo da
+ASMD como recurso didático para o ensino das quatro operações - Instituição
+Federal de Educação Ciência e Tecnologia do Tocantins (IFTO) Campus
+Paraíso do Tocantins, TO, Brasil, 2017
+</div>

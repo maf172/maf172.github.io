@@ -1,0 +1,86 @@
+---
+title: "Filmes Matemáticos"
+author: "Mariana Cristina Santos"
+output: html_document
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<p align="Right"> *“Mathematics, rightly viewed, possesses not only truth, but supreme beauty[...]"*</p>
+<p align="Right"> ― Bertrand Russell, A History of Western Philosophy </p>
+
+Com a citação de Bertrand Russell que diz "A matemática, corretamente vista, possui não apenas a verdade, mas a suprema beleza[..]", o filme *O Homem que Viu o Infinito* começa trazendo uma reflexão sobre a beleza da Matemática. A reflexão de Russell traz inúmeros significados para nós, e sugere, no contexto cinematográfico, que os filmes podem nos mostrar a beleza existente na Matemática. Pensando nisso, separei uma listinha de filmes que abrilhantam as telas com histórias matemáticas.
+
+## O Homem que Viu o Infinito
+<p align="Center"> ![Cartaz O Homem que Viu o Infinito](https://www.melhoresfilmes.com.br/dimg/?w=289&amp;url=https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fimg%2Fposters%2F28397.jpg)</p>
+<p> **Ano:** 2015</p>
+<p>**Titulo original:** The Man Who Knew Infinity</p>
+<p>**Duração:** 114 minutos</p>
+<p> Uma vez que já falamos sobre *O Homem Que Viu o Infinito*, vamos começar com o filme que conta a história verídica de Srinivasa Aiyangar Ramanujan (1887 – 1920), um dos mais influentes génios matemáticos do século XX. De origem humilde e sem formação acadêmica, ele contribuiu para a matemática com diversos trabalhos, como  teoria dos números e séries infinitas. O filme mostra sua relação de amizade com Godfrey Harold Hardy e o conflito entre a razão (matemática) e a crença de que suas teorias eram de origem divina.</p>
+
+## Uma Mente Brilhante
+<p align="Center"> ![Cartaz Uma Mente Brilhante](https://www.melhoresfilmes.com.br/dimg/?w=289&amp;url=https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fimg%2Fposters%2F2771.jpg)</p>
+<p> **Ano:** 2001</p>
+<p>**Titulo original:** Beautiful Mind</p>
+<p>**Duração:** 135 minutos</p>
+<p> O filme conta a história do matemático norte-americano John Nash (1928-2015). Sua incrível capacidade de decifrar códigos e padrões acaba lhe rendendo um emprego no governo norte-americano, mas após realizar um trabalho para o Governo dos Estados Unidos, passa a sofrer com delírios e alucinações. Nash é diagnosticado com esquizofrenia, lutando por anos para se recuperar. Após anos, ele retorna à sociedade e acaba sendo premiado com o Prêmio Nobel.</p>
+
+## O Jogo da Imitação
+<p align="Center"> ![Cartaz O Jogo da Imitação](https://www.melhoresfilmes.com.br/dimg/?w=289&amp;url=https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fimg%2Fposters%2F26784.jpg)</p>
+<p> **Ano:** 2014</p>
+<p>**Titulo original:** The Imitation Game</p>
+<p>**Duração:** 114 minutos</p>
+<p> Baseado na história real do gênio da matemática e pai da computação Alan Turing (1912-1954), um matemático de 27 anos estritamente lógico e focado no trabalho, que tem problemas de relacionamento com praticamente todos à sua volta. Mostra a atuação dele — e de um grupo de matemáticos e pesquisadores — durante a Segunda Guerra Mundial para decodificar mensagens da máquina Enigma enviadas pelo exército nazista para os soldados nas frentes de batalha. O filme também aborda a vida pessoal do matemático britânico que sofreu preconceito e repressão por conta de sua opção sexual.
+
+## Estrelas Além do Tempo
+<p align="Center"> ![Cartaz Estrelas Além do Tempo](https://www.melhoresfilmes.com.br/dimg/?w=289&amp;url=https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fimg%2Fposters%2F28737.jpg)</p>
+<p> **Ano:** 2016</p>
+<p>**Titulo original:** Hidden Figures</p>
+<p>**Duração:** 127 minutos</p>
+<p>Este filme retrata um história real no auge da corrida espacial travada entre Estados Unidos e Rússia durante a Guerra Fria, onde uma equipe de cientistas da NASA, formada exclusivamente por mulheres afro-americanas, provou ser o elemento crucial que faltava na equação para a vitória dos Estados Unidos, liderando uma das maiores operações tecnológicas registradas na história americana e se tornando verdadeiras heroínas da nação. Nesse grupo estão Katherine Johnson, Dorothy Vaughn e Mary Jackson, três matemáticas que, além de provar sua competência dia após dia, precisam lidar com o preconceito para que consigam ascender na hierarquia da NASA. Além do contexto historico pertubador e preconceito de gênero, o filme mostra a segregação racial da sociedade.</p>
+
+##Alexandria
+<p align="Center"> ![Cartaz Alexandria](https://www.melhoresfilmes.com.br/dimg/?w=289&amp;url=https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fimg%2Fposters%2F16091.jpg)
+<p> **Ano:** 2009</p>
+<p>**Titulo original:** Ágora</p>
+<p>**Duração:** 126 minutos</p>
+<p>O filme espanhol tem como inspiração a vida de Hipátia, que foi uma filosofa, matemática e astrônoma. Hipétia representa uma figura revolucionária para a época, principalmente por ser mulher e estar a frente da educação de homens. Em diversas cenas mostra Hipátia na Biblioteca de Alexandria levando-nos a idealizar o que pode ter sido a Biblioteca de Alexandria, que se passa no Egito tomado pelos romanos. </p>
+
+## A Teoria de Tudo
+<p align="Center"> ![Cartaz A Teoria de Tudo](https://www.melhoresfilmes.com.br/dimg/?w=289&amp;url=https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fimg%2Fposters%2F26782.jpg)</p>
+<p> **Ano:** 2014</p>
+<p>**Titulo original:** The Theory of Everything</p>
+<p>**Duração:** 123 minutos</p>
+<p>O filme é recente, e traz a história de um físico, mas vale muita a pena assistir. O filme conta a história de Stephen Hawking, uma das mentes mais brilhantes do mundo. Hawking foi diagnosticado com esclerose lateral amiotrófica, aos 21 anos, recebendo a notícia de que não passaria dos 23. Ao viver até os 76 anos, ele desafiou não só a doença, mas a própria ciência. O filme mostra como Hawking fez descobertas importantes sobre o tempo, além de retratar o seu romance com a aluna de Cambridge Jane Wide.</p>
+
+## Quebrando a Banca
+<p align="Center"> ![Cartaz Quebrando a Banca](https://www.melhoresfilmes.com.br/dimg/?w=289&amp;url=https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fimg%2Fposters%2F8034.jpg)
+<p> **Ano:** 2008</p>
+<p>**Titulo original:** 21</p>
+<p>**Duração:** 123 minutos</p>
+<p> Baseado em um livro que conta fatos reais, conta sobre as aventuras de um brilhante aluno do MIT (Instituto de Tecnologia de Massachusetts) e o professor de matemática Edward Thorp, que se juntam a um grupo de alunos que desenvolveram uma técnica para contar cartas e levar vantagem em jogos de Blackjack, também conhecido como 21, que com esta vantagem partem para Las Vegas lucrando milhões.</p>
+
+## Pi
+<p align="Center"> ![Cartaz Pi](https://www.melhoresfilmes.com.br/dimg/?w=289&amp;url=https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fimg%2Fposters%2F1953.jpg)
+<p> **Ano:** 1998</p>
+<p>**Titulo original:** Pi</p>
+<p>**Duração:** 84 minutos</p>
+<p>Max é um gênio da computação e matemática, mas vive escondido da luz do Sol, pois está lhe causa fortes dores de cabeça, e evita ter contato com as pessoas. Sozinho ele consegue construir um supercomputador que permite a descoberta do número pi por completo. Logo ele percebe que todos os eventos se repetem num determinado espaço de tempo e assim ele passa a especular as tendências no mercado de bolsa de valores. A partir daí, uma seita e até representantes de Wall Street passam a cobiçar a descoberta de Max.</p>
+
+## Gênio Indomável
+<p align="Center"> ![Cartaz Gênio Indomável](https://www.melhoresfilmes.com.br/dimg/?w=289&amp;url=https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fimg%2Fposters%2F2132.jpg)</p>
+<p> **Ano:** 1997</p>
+<p>**Titulo original:** Good Will Hunting</p>
+<p>**Duração:** 126 minutos</p>
+<p> Diferente das obras anteriores, esta não é uma história baseada em fatos reais. Esta obra de ficção conta a história de Will, um servente em uma famosa universidade, e, um jovem problemático que já teve passagens pela polícia, além de não saber lidar com as emoções. Will revela ter grande habilidade com a matemática. Por determinação legal precisa fazer terapia, assim, ele conhece Sean Maguire, um psicólogo que o ajuda a formar sua identidade e lidar com as emoções.</p>
+
+## Rain Man
+<p align="Center"> ![Cartaz Rain Man](https://www.melhoresfilmes.com.br/dimg/?w=289&amp;url=https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fimg%2Fposters%2F170.jpg)</p>
+<p> **Ano:** 1988</p>
+<p>**Titulo original:** Rain Man</p>
+<p>**Duração:** 133 minutos</p>
+<p> O executivo Charlie, um homem insensível, espera uma grande herança após a morte do pai. Sua vida muda ao descobrir que o pai faleceu e deixou para ele no testamento apenas um Buick 1949 e algumas roseiras premiadas, enquanto outro “beneficiário” herda 3 milhões de dólares. Curioso, descobre que a fortuna ficou para seu irmão Raymond, seu irmão mais velho, internado numa instituição médica por ser autista, cuja existência ele desconhecia. Decepcionado, ele sequestra o irmão para levá-lo para Los Angeles e exigir metade do dinheiro, mas dali nasce uma profunda amizade.</p>

@@ -1,0 +1,238 @@
+---
+title: "Eventos"
+author: "Ana Carolina Saliba"
+date: "25/09/2019"
+output: 
+  html_document:
+    toc: yes
+    code_folding: hide
+    theme: journal
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<div style='text-align:justify;'>
+# Semana Acadêmica da Matemática UFV-CAF
+<p>
+<p>
+<center>![](C:\Users\Guilherme\Desktop\COMPUTACIONAL\Trabalhos computacional\Ana Saliba\semanamat.jpg)
+<p>
+<p>
+<p>
+<p>
+<p>
+Há 7 anos atrás, aconteceu a primeira semana acadêmica da matemática no campus da UFV, em Florestal. Desde o ano 2013, o evento é realizado anualmente por estudantes e professores do curso de Licenciatura em Matemática da Universidade Federal de Viçosa- Campus Florestal (UFV-CAF).
+Além de ser uma forma de divulgar o Curso de Licenciatura em Matemática do Campus UFV – Florestal e diversas ações de seus estudantes e docentes; fomenta também as discussões relacionadas à atuação profissional nas áreas de Ensino, de Pesquisa e de Extensão em Matemática e áreas correlacionadas. É uma oportunidade para que professores em formação e professores em serviço das escolas da Educação Básica da região possam trocar experiências e aprofundar questões relacionadas aos desafios da profissão. Também oportuniza ampla discussão sobre a relação dos conteúdos do curso de Matemática e de áreas afins com a atuação profissional do licenciando em Matemática, contribuindo assim para a formação crítica dos estudantes.
+<p>
+Para saber mais, acesse <http://www.semanadamatematica.caf.ufv.br/>
+
+<p>
+<p>
+<p>
+Este ano acontecerá a VII Semana Acadêmica da Matemática, venha participar e aprender um pouco mais sobre a matemática e suas pluralidades. As inscrições devem ser feitas até dia 25 de outubro de 2019, pelo site abaixo.</div>
+<p>
+Inscrições para VII Semana Acadêmica da Matemática, acesse: <https://eventos.funarbe.org.br/confirma/744>
+<p>
+<p>
+# Relme
+<p>
+</div>
+<center>![](C:\Users\Guilherme\Desktop\COMPUTACIONAL\Trabalhos computacional\Ana Saliba\relme.PNG)
+<div style='text-align:justify;'>
+<p>
+<p>
+<p>
+<p>
+<p>
+O Encontro Latino-Americano de Matemática Educacional (RELME) é uma reunião anual de pesquisadores, professores e estudantes de graduação ou pós-graduação interessados em matemática educacional, convocada pelo Comitê Latino-Americano de Matemática Educacional (Clame). 
+<p>
+Este ano aconteceu a 33º edição, organizada pela Universidade de Ciência da Computação (UTI), Cuba. O evento tem como objetivo promover o desenvolvimento da disciplina na região, através da apresentação de pesquisas; troca de experiências e propostas teóricas e metodológicas entre colegas dedicados ao ensino de matemática; compartilhando sua visão de diferentes culturas e tradições educacionais.
+<p>
+Para saber mais, acesse: https://clame-relme.org/
+
+
+##### • Alguns alunos do curso de Licenciatura em Matemática da Universidade Federal de Viçosa- campus Florestal (UFV-CAF), apresentaram seus projetos nas edições 31,32 e33 da Relme.
+Confira abaixo:
+<p>
+</div>
+![](C:\Users\Guilherme\Desktop\COMPUTACIONAL\Trabalhos computacional\Ana Saliba\vinirelme31.JPG)
+<p>
+<p>
+<p>
+Vinícius Junio Pereira de Oliveira- Relme 31- Peru
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+![](C:\Users\Guilherme\Desktop\COMPUTACIONAL\Trabalhos computacional\Ana Saliba\vinirelme32.JPG)
+<p>
+<p>
+Vinícius Junio Pereira de Oliveira- Relme 32- Colômbia
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+![](C:\Users\Guilherme\Desktop\COMPUTACIONAL\Trabalhos computacional\Ana Saliba\marianarelme33.JPG)
+<p>
+<p>
+Mariana Cristina - Relme 33- Cuba
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+# Colóquio Brasileiro de Matemática
+<p>
+<p>
+<center>![](C:\Users\Guilherme\Desktop\COMPUTACIONAL\Trabalhos computacional\Ana Saliba\coloquio.JPG)
+<p>
+<p>
+<p>
+<p>
+<p>
+<div style='text-align:justify;'>
+O Colóquio Brasileiro de Matemática (CBM) é a mais abrangente reunião científica da comunidade matemática brasileira. Realizado bienalmente desde 1957, conta com a participação de alunos de graduação e pós-graduação de todo o país, além de grandes pesquisadores brasileiros e estrangeiros, de grande renome internacional. A edição de 2017 comemorou o aniversário de 60 anos, sem interrupção, de existência dos Colóquios Brasileiros de Matemática, com sucesso vertiginoso em cada edição.
+Esse ano aconteceu a 32º edição do evento, no Rio de Janeiro.
+E-mail: <coloquio@impa.br>
+<p>
+Para saber mais, acesse: https://impa.br/eventos-do-impa/eventos-2019/32o-coloquio-brasileiro-de-matematica/
+
+<p>
+<p>
+# Congresso Internacional de Matemáticos
+<p>
+</div>
+<center>![](C:\Users\Guilherme\Desktop\COMPUTACIONAL\Trabalhos computacional\Ana Saliba\congressointermat.PNG)
+<p>
+<p>
+<p>
+<p>
+<p>
+<div style='text-align:justify;'>
+O Congresso Internacional de Matemáticos (IMC) é considerado como uma oportunidade histórica para tornar a matemática mais popular e conhecida na nossa sociedade, especialmente entre os nossos jovens. 
+<p>
+As primeiras edições do ICM aconteceram numa encruzilhada histórica em que os próprios fundamentos da Matemática estavam sendo postos à prova. Passados mais de cem anos, foram propostos novos desafios: como tornar a Matemática mais global, mais conhecida e difundida por todo o planeta.
+<p>
+A proposta do evento é semear Matemática, e nos dias 1 a 9 de agosto de 2018, aconteceu no Rio de Janeiro, o primeiro Congresso Internacional de Matemática (IMC) no Brasil; sendo uma grande oportunidade de ampliar os grandes avanços do país. O ICM no Rio não só preservou o alto nível científico da série, mas também colaborou para uma nova era de progresso e visibilidade para a Matemática no Brasil e outros países em desenvolvimento.
+<p>
+Para saber mais acesse:<http://www.icm2018.org/portal/mensagem-boas-vindas.html>
+<p>
+Inscrições, acesse: <http://www.icm2018.org/portal/como-participar.html>
+<p>
+<p>
+# Congresso Nacional de Matemática Aplicada e Computacional
+<p>
+</div>
+<center>![](C:\Users\Guilherme\Desktop\COMPUTACIONAL\Trabalhos computacional\Ana Saliba\logocomp.PNG)
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<div style='text-align:justify;'>
+O Congresso Nacional de Matemática Aplicada e Computacional (CNMAC) é o evento mais importante da Sociedade Brasileira de Matemática Aplicada e Computacional (SBMAC) e tem se convertido no maior evento da área, tanto do Brasil quanto da América Latina. O congresso tem como objetivo congregar professores(as), pesquisadores(as) e outros(as) profissionais de universidades, centros de pesquisa e empresas, das mais diversas áreas da Matemática Aplicada e Computacional, para divulgar e discutir resultados recentes das suas pesquisas e trabalhos em andamento. Desta forma, o evento tem se tornado um ponto de encontro para tomar ciência da produção científica sobre a área nas principais instituições nacionais.
+<p>
+A primeira edição do CNMAC aconteceu em Belo Horizonte (MG), em 1978. A 39a. edição do CNMAC aconteceu em Uberlândia, MG, de 16 a 20 de setembro de 2019, nas dependências da Universidade Federal de Uberlândia. 
+<p>
+Para saber mais, acesse: http://www.cnmac.org.br/novo/
+<p>
+<p>
+# Sociedade Brasileira de Matemática 
+<p>
+</div>
+<center>![](C:\Users\Guilherme\Desktop\COMPUTACIONAL\Trabalhos computacional\Ana Saliba\sosbramat1.PNG)
+<p>
+<p>
+<div style='text-align:justify;'>
+A Associação Nacional dos Professores de Matemática na Educação Básica (ANPMat), em parceria com a Sociedade Brasileira de Matemática (SBM), promove a realização de Simpósios da Formação do Professor de Matemática, nas cinco grandes regiões do país (Norte, Nordeste, Centro-Oeste, Sudeste e Sul), tendo também uma edição nacional. Os Simpósios têm por objetivo debater propostas e possibilidades de melhorias na qualidade do ensino, além de contribuir para a formação de estudantes e profissionais ligados à Matemática, para uma melhor qualificação dos profissionais da área da Matemática e dos professores atuantes nos primeiros anos da educação básica.
+<p>
+Estes simpósios são destinados à  pesquisadores, professores e estudantes de cursos de graduação e pós-graduação que atuem junto a Matemática e ao ensino de Matemática, em especial, os alunos egressos do curso PROFMAT e os professores atuantes na educação básica.
+<p>
+Nos dias 22 a 24 de novembro de 2019, acontecerá o IV Simpósio Nacional da Formação do Professor de Matemática
+UFES, em Vitória – ES.
+<p>
+Para saber mais, acesse: https://www.sbm.org.br/
+<p>
+<p>
+<p>
+# Semana da Matemática da Ufmg
+<p>
+</div>
+<center>![](C:\Users\Guilherme\Desktop\COMPUTACIONAL\Trabalhos computacional\Ana Saliba\semanaufmg.JPG)
+<p>
+<p>
+<div style='text-align:justify;'>
+Promovida pela Empresa Júnior de Matemática, Matemática Computacional e Estatística da UFMG,  a Pi Jr., a Semana é  dedicada à divulgação da matemática.
+O objetivo é contribuir para a formação de profissionais atuantes em ensino, pesquisa e extensão, conectar os alunos à ciência e à vida através da matemática, incentivando-os a aturem em pesquisa e ensino, e aprimorar conhecimentos e técnicas matemáticas para o ensino na Educação Básica. 
+<p>
+Esse ano, a Semana da Matemática acontecerá nos dias 15 a 18 de outubro, no  Instituto de Ciências Exatas (ICEx) da UFMG. O evento oferecerá palestras, oficinas e minicursos destinados à Educação Matemática e às áreas da Matemática pura e aplicada, com emissão de certificados. 
+<p>
+Para saber mais, acesse: https://ufmg.br/comunicacao/eventos/semana-da-matematica-da-ufmg
+<p>
+<p>
+<p>
+# Encontro Nacional de Educação Matemática (ENEM)
+<p>
+</div>
+<center>![](C:\Users\Guilherme\Desktop\COMPUTACIONAL\Trabalhos computacional\Ana Saliba\enem.PNG)
+<p>
+<p>
+<div style='text-align:justify;'>
+O ENEM, congrega o universo dos segmentos envolvidos com a Educação Matemática: professores da Educação Básica, professores e estudantes das Licenciaturas em Matemática e em Pedagogia, estudantes da Pós-graduação e pesquisadores. A cada encontro constatamos o interesse pelas discussões sobre a Educação Matemática, seus fazeres múltiplos e complexos, tendências metodológicas e pesquisas que constituem a área. O evento tem como objetivo,contribuir com o avanço das discussões da Educação Matemática brasileira.
+<p>
+O XIII ENEM, em colaboração com a Comissão Científica,estabeleceu a temática: Educação Matemática com as Escolas da Educação Básica - Interfaces entre pesquisas e salas de aula. Os trabalhos serão submetidos em três eixos: Práticas Escolares, Pesquisa em Educação Matemática e Formação de Professores. Espera-se que as discussões a partir de comunicações científicas, relatos de experiências, pôsteres, minicursos, palestras, conferências, mesas redondas e Feira de Matemática possam contribuir, dentre outras esferas, com os processos de ensinar e de aprender matemática nas Escolas da Educação Básica do Brasil.
+<p>
+Para saber mais, acesse:https://www.sbemmatogrosso.com.br/eventos/index.php/emapem/2019
+<p>
+<p>
+<p>
+# Conferência Nacional sobre Modelagem na Educação Matemática
+<p>
+</div>
+<center>![](C:\Users\Guilherme\Desktop\COMPUTACIONAL\Trabalhos computacional\Ana Saliba\confmodelagem.PNG)
+<p>
+<p>
+<div style='text-align:justify;'>
+As discussões sobre Modelagem Matemática, na perspectiva da Educação Matemática, vêm sendo desenvolvidas no Brasil desde o final dos anos 70, fortalecendo-se nas duas décadas finais do Século XX. Desde então, a comunidade brasileira da Modelagem na Educação Matemática vem ampliando sua abrangência, tanto em relação à pesquisa quanto à prática de sala de aula, incluindo a formação de professores. Essa trajetória deu margem à criação de espaços e eventos específicos com o intuito de fomentar e aprofundar os debates sobre o tema e buscar, cada vez mais, a consolidação da Modelagem Matemática como um campo da Educação Matemática. É nesse contexto que se realiza, desde 1999, a Conferência Nacional sobre Modelagem na Educação Matemática (CNMEM), um evento promovido pelo Grupo de Trabalho "Modelagem Matemática" (GT10) da Sociedade Brasileira de Educação Matemática (SBEM) que congrega professores de todos os níveis de ensino, pesquisadores e estudantes que pesquisam sobre e/ou praticam a Modelagem na perspectiva da Educação Matemática, visando aprofundar os debates e divulgar a Modelagem em âmbito nacional.
+<p>
+Em 2019, será realizada a 11ª edição do evento na Universidade Federal de Minas Gerais (UFMG), na cidade de Belo Horizonte, MG, durante os dias 14, 15 e 16 de novembro. O tema da XI CNMEM é Modelagem Matemática na Educação Matemática e a Escola Brasileira: atualidade e perspectivas.
+<p>
+Para saber mais, acesse: https://www.sbemmatogrosso.com.br/eventos/index.php/emapem/2019
+<p>
+<p>
+<p>
+
+# GEPEMUV
+<p>
+</div>
+<center>![](C:\Users\Guilherme\Desktop\COMPUTACIONAL\Trabalhos computacional\Ana Saliba\gepemuv.PNG)
+<p>
+<p>
+<div style='text-align:justify;'>
+Foi realizado no dia 01 de setembro de 2018, O I Encontro do Grupo de Estudos e Pesquisas em Educação Matemática da UFV (GEPEMUV), na Universidade Federal de Viçosa.
+<P>
+O GEPEMUV, tem como objetivo, realizar encontros periódicos de estudos sobre temas relevantes para a Educação matemática, publicar trabalhos e artigos de seus membros, promover ciclos de debates e apoiar a formação inicial e continuada dos professores que ensinam matemática. O evento é destinado a professores, pesquisadores, alunos e técnicos que tenham interesse em colaborar neste campo de estudos e pesquisa.
+<p>
+Este ano, o evento aconteceu pela segunda vez, entre os dias 30 e 31 de agosto, proporcionando palestras, mesas redondaas, e oficinas.
+<p>
+Para saber mais, acesse: https://sites.google.com/view/gepemuv/menu
+</div> 

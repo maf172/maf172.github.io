@@ -1,0 +1,71 @@
+---
+title: "História de Euclides"
+author: "Renan Miranda"
+date: "24/09/2019"
+output: 
+ html_document:
+  toc: yes
+  code_folding: hide
+  theme: darkly
+ 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<p style="text-align: justify;">
+<!--como colocar link e pular linhas-->
+
+</p>
+## **Introdução** 
+&#160;&#160;&#160;&#160;&#160;&#160;
+Euclides de Alexandria foi um professor, matemático platônico e escritor grego, muitas vezes referido como o "Pai da Geometria". Além de sua principal obra, Os Elementos, Euclides também escreveu sobre perspectivas, seções cônicas, geometria esférica, teoria dos números etc.
+<p>
+&#160;&#160;&#160;&#160;&#160;&#160;
+A geometria euclidiana é caracterizada pelo espaço euclidiano, imutável, simétrico e geométrico, metáfora do saber na antiguidade clássica e que se manteve ileso no pensamento matemático medieval e renascentista, pois somente nos tempos modernos puderam ser construídos modelos de geometrias não-euclidianas
+<p>
+## **Vida**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Pouco se sabe sobre a vida de Euclides pois há apenas poucas referências fundamentais a ele, tendo sido escritas séculos depois que ele viveu, por Proclo e Papo de Alexandria. Proclo apresenta Euclides apenas brevemente no seu Comentário sobre os Elementos, escrito no século V, onde escreve que Euclides foi o autor de Os Elementos, que foi mencionado por Arquimedes e que, quando Ptolomeu I perguntou a Euclides se não havia caminho mais curto para a geometria que Os Elementos, ele respondeu: "não há estrada real para a geometria". Embora a suposta citação de Euclides por Arquimedes foi considerada uma interpolação por editores posteriores de suas obras, ainda se acredita que Euclides escreveu suas obras antes das de Arquimedes. Além disso, a anedota sobre a "estrada rea" é questionável, uma vez que é semelhante a uma história contada sobre Menecmo e Alexandre, o Grande.
+<p>
+&#160;&#160;&#160;&#160;&#160;
+Na outra única referência fundamental sobre Euclides, Papo mencionou brevemente no século IV que Apolônio "passou muito tempo com os alunos de Euclides em Alexandria, e foi assim que ele adquiriu um hábito de pensamento tão científico. Também se acredita que Euclides pode ter estudado na Academia de Platão, na Grécia.
+<p>
+ &#160;&#160;&#160;&#160;&#160;
+ As datas de nascimento (inclusive o local) e morte(inclusive suas      circunstâncias) de Euclides são desconhecidas e estimadas pela comparação com as figuras contemporâneas mencionadas nas referências. Nenhuma imagem ou descrição da aparência física de Euclides foi feita durante sua vida portanto as representações de Euclides em obras de arte são os produtos da imaginação artística.
+<p>
+&#160;&#160;&#160;&#160;&#160;
+Convidado por Ptolomeu I para compor o quadro de professores da recém fundada Academia, que tornaria Alexandria o centro do saber da época, tornou-se o mais importante autor de matemática da Antiguidade greco-romana e talvez de todos os tempos, com seu monumental Stoichia.
+<p>
+&#160;&#160;&#160;&#160;&#160;
+Depois da queda do Império Romano, os seus livros foram recuperados para a sociedade européia pelos estudiosos muçulmanos da Península Ibérica. Escreveu ainda Optica, sobre a óptica da visão e sobre astrologia, astronomia, música e mecânica, além de outros livros sobre matemática. Entre eles citam-se Lugares de superfície, Pseudaria, Porismas e mais algumas outras.
+<p>
+&#160;&#160;&#160;&#160;&#160;
+Algumas das suas obras como Os elementos, Os dados (uma espécie de manual de tabelas de uso interno na Academia e complemento dos seis primeiros volumes de Os Elementos), Divisão de figuras (sobre a divisão geométrica de figuras planas), Os Fenômenos (sobre astronomia), e Óptica (sobre a visão), sobreviveram parcialmente e hoje são, depois de A Esfera de Autólico, os mais antigos tratados científicos gregos existentes. Pela sua maneira de expor nos escritos deduz-se que tenha sido um habilíssimo professor.
+
+
+
+<p>
+## **Os elementos de Euclides**
+&#160;&#160;&#160;&#160;&#160;
+Os Elementos de Euclides é um tratado matemático e geométrico consistindo de 13 livros escrito pelo matemático grego Euclides em Alexandria por volta de 300 a.C. Ele engloba uma coleção de definições, postulados (axiomas), proposições (teoremas e construções) e provas matemáticas das proposições. Os treze livros cobrem a geometria euclidiana e a versão grega antiga da teoria dos números elementar. Parece que Euclides pretendia reunir três grandes descobertas do seu tempo: a teoria das proporções de Eudoxo, a teoria dos irracionais de Teeteto e a teoria dos cinco sólidos regulares, que ocupava um lugar importante na cosmologia de Platão.
+<p>
+&#160;&#160;&#160;&#160;&#160;
+Com a exceção do Sobre a Esfera Movente de Autólico de Pitane, os Elementos é o tratado grego sobrevivente mais antigo ] e contém o tratamento axiomático-dedutivo sobrevivente mais antigo da matemática. Ele se provou útil na construção da lógica e da ciência moderna.
+<p>
+&#160;&#160;&#160;&#160;&#160;
+Os Elementos de Euclides é o livro didático mais bem-sucedido e influente já escrito. Tendo sido colocado em tipos primeiramente em Veneza em 1482, é um dos
+<p>
+&#160;&#160;&#160;&#160;&#160;
+primeiros trabalhos de matemática a ser impresso depois da invenção da prensa móvel e perde somente para a Bíblia em número de edições publicadas, com o número batendo nas mil edições.
+<p>
+## **A Influência dos Elementos**
+&#160;&#160;&#160;&#160;&#160;
+Os Elementos é ainda considerado uma obra-prima da aplicação da lógica à matemática. Em um contexto histórico, se tem provado enormemente influente em muitas áreas da ciência. Os cientistas Nicolaus Copernicus, Johannes Kepler, Galileo Galilei e Sir Isaac Newton foram todos influenciados pelos Elementos e aplicaram seu conhecimento à sua obra. Matemáticos e filósofos como Bertrand Russell, Alfred North Whitehead e Baruch Spinoza tentaram criar seus próprios "elementos" fundamentais de suas respectivas disciplinas, adotando as estruturas dedutivas axiomatizadas introduzidas pela obra de Euclides.
+<p>
+&#160;&#160;&#160;&#160;&#160;
+O sucesso dos Elementos é devido primeiramente à sua apresentação lógica da maior parte do conhecimento matemático disponível para Euclides. Muito do material não é formado de ideias originais dele, apesar de que muitas das provas o são. No entanto, o desenvolvimento sistemático do seu assunto, de um pequeno corpo de axiomas a profundos resultados, e a consistência de sua abordagem ao longo dos Elementos encorajou o seu uso como livro didático por mais de 2000 anos. Os Elementos ainda tem sua influência sobre livros modernos de geometria. Além disso, sua abordagem axiomática lógica e suas provas rigorosas são reconhecidamente válidas até hoje.
+<p>
+&#160;&#160;&#160;&#160;&#160;
+Apesar dos Elementos ser primariamente um livro de geometria, ele também inclui resultados que seriam classificados hoje como teoria dos números. Euclides provavelmente escolheu descrever resultados obtidos na teoria dos números em termos da geometria porque ele não conseguiu desenvolver uma abordagem construtiva à aritmética. Uma construção usada em qualquer das provas de Euclides requeria uma prova que fosse verdadeiramente possível. Isso evitava o problema que os pitagóricos encontraram com os irracionais, uma vez que suas provas falaciosas geralmente requeriam colocações do tipo "Encontre a maior medida comum de..."

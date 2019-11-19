@@ -1,0 +1,39 @@
+---
+title: "Projetos"
+author: "Larissa Ribeiro"
+date: "25/09/2019"
+output: 
+ html_document:
+  toc: yes
+  code_folding: hide
+  theme: darkly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Projetos de Extensão:
+<p style="text-align: justify;">
+<!--como colocar link e pular linhas-->
+ Os Projetos de Extensão, têm o intuito de criar uma ação dentro da Universidade e aplicá-la na comunidade ao seu redor. Em geral é em equipe e articulado pelos alunos de um ou mais cursos junto a uma equipe coordenadora.
+  E aqui estarão listados alguns projetos de extensão da Universidade Federal de Viçosa - Campus Florestal.
+</p>
+## **PIC OBMEP** 
+
+No ensino superior é um projeto de mentores para alunos que se destacaram na Olimpíada Brasileira de Matemática, onde os alunos do ensino superior ministram aulas de matemática direcionadas a prova da OBMEP para os alunos de nível fundamental e médio participantes do PIC. O projeto é financiado pela CNPq, os participantes ganham bolsas no valor 400,00 reais.
+<P>
+Pré requisitos: Qualquer aluno de qualquer período pode se inscrever para ser mentor do PIC, basta se inscrever enviando os dados necessários para o coordenador do projeto e ir no dia da seleção.
+<P>
+Critérios: Para alunos do primeiro período, o critério de seleção é a nota do Enem e para os demais períodos, o coeficiente de rendimento acumulado.
+<p>
+<center>![](C:\Users\jvkil\OneDrive\Área de Trabalho\projeto\a.png)</center>
+<p>
+## **Desafios da Matemática**
+ Projeto coordenado pelos professores Alexandre Alvarenga Rocha e Sérgio Henrique Nogueira, consiste em fazer apresentações e oficinas de jogos matemáticos e brincadeiras para ensino fundamental e médio. As visitas são agendadas pelas próprias escolas e as apresentações acontecem em um ou dois laboratórios da matemática.
+<p>
+Pré-requisitos: apenas comprometimento com os deveres do projeto, qualquer aluno de qualquer período pode participar do projeto.
+<p>
+Não há bolsistas no projeto sendo os participantes todos voluntários
+<p>
+<center>![](C:\Users\jvkil\OneDrive\Área de Trabalho\projeto\b.png)</center>

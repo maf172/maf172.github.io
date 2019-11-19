@@ -1,0 +1,59 @@
+---
+title: "Projetos de ensino"
+author: "Por Michael Douglas"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+No *Campus* UFV - Florestal há dois projetos de ensino voltados para o curso de Licenciatura em Matemática que têm um destaque maior. São eles: O "PIBID" e o "Residência Pedagógica".
+<p>
+
+## **PIBID**
+<center>![](C:\Users\MICHAEL\Downloads\logomarcapibid.png)</center>
+<p> O PIBID (Programa Institucional de Bolsas de Iniciação à Docência) é uma das iniciativas de política de formação inicial de docentes, criado pelo Decreto n.º 7.219/2010 e regulamentado pela Portaria 096/2013, visa principalmente a valorização do magistério. Sua administração é conduzida pela CAPES(Coordenação de Aperfeiçoamento de Pessoal de Nível Superior), que acolhe Projetos Institucionais de outras agências de fomento que perspectivem Programas da mesma natureza.</p>
+<p>O Programa iniciou em 2007 com 3.088 bolsistas e 43 instituições federais de ensino superior e em 2014 já contava com 90.254 bolsistas, distribuídos em 855 campi de 284 instituições formadoras públicas e privadas, sendo que em 29 dessas, há também programas para as áreas da educação escolar indígena e do campo.</p>
+<p>Muitas vezes a bolsa de $400,00 paga para cada estudante não ajuda somente ele. Esse dinheiro ajuda famílias por completo. Em alguns raros casos, ela é a única fonte de renda. Isso serve como um estímulo a mais para o futuro docente se empenhar no que faz. Fazer com o coração. Afinal, tudo o que é feito durante o programa serve como uma espécie de "amostra" do que, após a formação, será parte de seu cotidiano de professor.</p>
+<p> Mais informações podem ser acessadas pelo link:https://www.capes.gov.br/educacao-basica/capespibid/pibid </p>
+
+<P>
+Segue abaixo a relação de alunos integrantes do programa que terá vigência até janeiro/2020:
+<p>
+<p>
+NOME                         |Período Atual | Ingresso   |
+-----------------------------|--------------|------------|
+Ana Carolina de Assis Coelho |6°            |Agosto/2018 |
+Erlane Alves Santiago        |6°            |Agosto/2018 |
+Gabriela dos Reis Santos     |4°            |Agosto/2018 |
+José Vitor Novaes Moreira    |6°            |Agosto/2018 |
+Larissa Ribeiro Moreira      |4°            |Março /2019 |
+Michael Douglas Gomes Silva  |4°            |Março /2019 |
+Vanderley dos Santos Viana   |4°            |Março /2019 |
+
+<P>
+## **Residência Pedagógica**
+<center>![](C:\Users\MICHAEL\Downloads\logoresidencia.png)
+<p>Um dos diferenciais do Programa de Residência Pedagógica (PRP) é a estratégia de integração entre escolas, universidades e secretarias de educação. A intenção do programa é estimular a elaboração de um plano conjunto entre as IES e os colégios estaduais e municipais, com o objetivo de aproximar a formação acadêmica das reais demandas do ensino público. Essa, inclusive, era uma das principais queixas dos gestores escolares em relação ao Pibid.
+<P>Outro ponto importante é o caráter de imersão proposto pelo Programa de Residência Pedagógica. Ao todo, os alunos cumprirão uma carga de 400 horas em instituições do ensino básico.
+<p>O período será dividido entre aclimatação à escola, experiência em sala de aula, regência e atividades de avaliação. Assim como no Pibid, os estudantes receberão o acompanhamento de um professor da escola – com experiência na mesma área de ensino do licenciando – e de um docente da faculdade.
+<p>Alguns estudantes dizem que o "PRP" proporciona uma maior realidade do serviço de um professor, uma vez que as atividades realizadas por eles oferecem uma maior liberdade para conduzir a sala de aula. No mais, tanto o PIBID quuanto o PRP servem como experiência para que depois de formado o então professor não se surpreenda com a sala de aula.
+<p> Para mais informações, acesse:https://www.capes.gov.br/educacao-basica/programa-residencia-pedagogica
+<p> Segue abaixo a relação de alunos em participação do programa com vigência até dezembro/2019:
+
+<p>
+NOME                              | Período Atual|Ingresso    |            
+----------------------------------|--------------|------------|
+Brendo Lucas de Faria             |8°            |Agosto /2018|
+Gabriel Bruno Singh               |8°            |Agosto /2018|
+Márcia Cristina de Morais         |6°            |Agosto /2018|
+Mariana Cristina Gomes dos Santos |8°            |Agosto /2018|
+Matheus Aguiar Melo               |6°            |Janeiro/2019|
+Suéllen Aparecida dos Santos      |8°            |Agosto /2018|
+
+<p>
+
+<p>Tanto o PIBID quanto o PRP oferecem às escolas vinculadas diversas vantagens em relação às escolas não vinculadas, como aulas de reforço/monitoria por exemplo. A presença do discente na sala de aula é um apoio com o qual o professor responsável por aquela turma pode contar. É um auxílio que visa o bom desempenho do aluno, o bom rendimento, e irá trabalhar para isso realmente acontecer.
+
+<p> Outras informações relacionadas aos programas "PIBID" e "PRP", como por exemplo valores das bolsas, atuação, regimento e etc;podem ser encontradas através do site:https:https://www.capes.gov.br . 
