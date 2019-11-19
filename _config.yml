@@ -1,0 +1,21 @@
+title:             Matemática - Licenciatura  
+email:             maf172.teste@gmail.com
+description:       Página mantida por alunos da disciplina MAF 172 - Matemática Computacional
+author:            GJ
+url:               "http://maf172-teste.github.io/"
+external_link:     "true"
+markdown:          kramdown
+paginate:          30
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+#baseurl:
+#url:              "localhost:4000"
+# Social Profiles
+#twitter_username:  SBootstrap
+#github_username:   BlackrockDigital
+#facebook_username: StartBootstrap
+
+# Build settings
