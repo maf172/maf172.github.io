@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: Cronograma das Disciplinas MAF 172 e MAT 872
 classes:
   - landing
