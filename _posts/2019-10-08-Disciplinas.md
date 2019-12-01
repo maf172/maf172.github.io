@@ -8,6 +8,8 @@ background: https://raw.githack.com/maf172-teste/maf172-teste.github.io/master/i
 Conhecendo o curso de licenciatura em matemática.
 =================================================
 
+Autora: Joyce de Souza Sforzin
+
 Todos quando estamos tentando descobrir qual curso fazer, passamos por
 alguns problemas da falta de informação e ficamos na dúvida “o que
 estudarei neste curso?”, bom, meu intuito nessa página é lhe informar as
