@@ -1,6 +1,6 @@
 ---
 title: "História de Euclides"
-author: "Renan Miranda"
+author: "Renan Lana de Miranda"
 date: "24/09/2019"
 output: 
  html_document:

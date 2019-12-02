@@ -1,33 +1,54 @@
 ---
 title: "Pesquisa"
-author: "Marcia"
+author: "Marcia Moraes Rodrigues"
 date: "19/09/2019"
-output:
-  md_document:
-    variant: markdown_github
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-Programas de iniciação científica existentes UFV Florestal.
+PROGRAMAS DE INICIAÇÃO CIENTÍFICA EXISTENTES UFV FLORESTAL.
 
-Para participar, escolha primeiro programa que mais se encaixa no seu perfil. Fique atento as datas de inscrição presentes em cada edital! Procure o Professor com formação na sua área de interesse, e apresente claramente seus objetivos. Se seu objetivo é trabalhar com sistemas dinâmicos você poderá procurar um dos Professores: 
+Para participar dos Programas de Iniciação Científica da Universidade Federal de Viçosa – Campus Florestal, o interessado deverá primeiro escolher o programa que mais se encaixa no seu perfil. Para isso, deve estar atento às datas de inscrição presentes em cada edital. Em seguida, procurar o Professor com formação na sua área de interesse e apresentar claramente seus objetivos. 
+Se o objetivo for trabalhar com Sistemas Dinâmicos, o candidato poderá procurar um dos Professores:
 
-Alexandre Alvarenga Rocha, Justino Muniz Júnior, Lucas Carvalho Silva, Lúcio Paccori Lima, Luiz Gustavo Perona Araújo ou Sérgio Henrique Nogueira.
+•	Alexandre Alvarenga Rocha, graduado em Matemática pela Universidade Federal de Viçosa em 2006, mestrado em Matemática pela Universidade Federal de Minas Gerais em 2009 e doutorado em Matemática pela Universidade Federal de Minas Gerais em 2013. 
 
-Se seu interesse é pela estatística você poderá procura um dos Professores:
+•	Justino Muniz Júnior, graduado em Matemática pela Universidade Federal de Ouro Preto em 2006 e mestrado em Matemática pela Universidade Federal de Minas Gerais com ênfase em Sistemas Dinâmicos em 2009. 
 
-Fernando de Souza Bastos ou Guaraci de Lima Requena.
+•	Lucas Carvalho Silva, licenciado e mestrado em Matemática pela Universidade Federal de Viçosa.
 
-Se deseja trabalhar com Biomatemática, poderá procurar pelo Professor Mehran Sabeti.
+•	Lúcio Paccori Lima, graduado em Matemática pela Universidad Nacional de San Agustín de Arequipa em 1993 e mestrado em Matemática pela Universidade Federal de Minas Gerais em 1998. 
 
-Mas se seu interesse é pela Educação matemática, deverá procurar pela Professora Lúcia Helena dos Santos Lobato ou pelo Professor Gerson Geraldo Chaves.
+•	Luiz Gustavo Perona Araújo, graduado em Matemática pela Universidade Federal de Minas Gerais em 2009, mestrado em 2012 e doutorado em 2017 em Matemática pela Universidade Federal de Minas Gerais. 
 
-Se sua prioridade é a álgebra deverá falar com a Professora Danielle Franco Nicolau ou Professor Luís Felipe Gonçalves Fonseca.
-Caso sua proposta seja aceita seu orientador irá submeter o projeto para avaliação conforme consta no edital.
+•	Sérgio Henrique Nogueira, graduado em Matemática pela Universidade Federal de Viçosa em 1997 e mestrado em Matemática pela Universidade de São Paulo em 2002. 
 
-Bons estudos!
+Se a área de interesse for pela Estatística o aluno poderá procurar um dos Professores:
+
+•	Fernando de Souza Bastos, licenciado em Matemática pela Universidade Federal de Viçosa em 2007, mestrado em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa em 2010 e doutorado em Estatística pela Universidade Federal de Minas Gerais em 2018. 
+
+•	Guaraci de Lima Requena, bacharelado em Matemática Aplicada pelo Instituto de Biociências, Letras e Ciências Exatas da Universidade Estadual Paulista em 2011, mestrado em Estatística pela Universidade Federal de São Carlos em 2014, doutorado em Estatística pelo Instituto de Matemática e Estatística da Universidade de São Paulo em 2018.
+
+Se o desejo do candidato for atuar na área de Biomatemática, poderá procurar pelo Professor:
+
+•	Mehran Sabeti, bacharelado e licenciatura em matemática pela Universidade Federal do Espírito Santo em 2004, mestrado em Matemática Aplicada pela Universidade Federal do Paraná em 2007 e doutorado em Matemática pela Universidade Federal de Pernambuco em 2011. 
+
+Quando o interesse estiver direcionado para a área da Educação Matemática, deverá procurar pelos Professores:
+
+•	Lúcia Helena dos Santos Lobato, graduado em Matemática pela Faculdade de Filosofia Ciências e Letras de Belo Horizonte em 1992, especialização em Educação Matemática também pela Faculdade de Filosofia Ciências e Letras de Belo Horizonte em 1993 e mestrado em Mídia e Conhecimento, pela Universidade Federal de Santa Catarina em 2003, doutorado em Educação Matemática pela Universidade Bandeirante de São Paulo em 2018.  
+
+•	Gerson Geraldo Chaves, graduado em Matemática pelas Faculdades Integradas Newton Paiva em 1994, pós-graduado em Educação pela Faculdade de Educação São Luís em 1998, mestrado em Ciências pela Universidade Federal Rural do Rio de Janeiro em 2011 e doutorado em Educação Matemática pela Universidade Anhanguera de São Paulo em 2018.
+
+Se prioridade de interesse estiver relacionada à Álgebra, deverá procurar os Professores: 
+
+•	Danielle Franco Nicolau, graduada em Matemática pelo Centro Universitário de Belo Horizonte em 2005, mestrado em Matemática pela Universidade Federal de Minas Gerais em 2010 e doutorado em Matemática pela Universidade Federal de Minas Gerais em 2014. 
+
+•	Luís Felipe Gonçalves Fonseca, graduado em Matemática pela Universidade Federal de Minas Gerais em 2007, mestrado em Matemática pela Universidade Federal de Minas Gerais em 2010 e doutorado em Matemática pela Universidade de Brasília em 2013. 
+
+
+Caso a proposta seja aceita, o orientador irá submeter o projeto para avaliação conforme consta no edital. Bons estudos!
 
 
 PIBIC/CNPQ
