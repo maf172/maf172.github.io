@@ -42,7 +42,7 @@
           }
           > .post-meta {
             display: none;
-            font-family: 'Consolas';
+            font-family: 'Cambria Math';
             font-size: 15px;
             margin: 10px 0 0;
             color: $gray-900;
@@ -109,7 +109,7 @@ h1[id]{
   display: inline-block;
   border-bottom: 5px solid #2fafaf;/*Linha abaixo do texto (sublinhado)*/
   line-height: 0.8;
-  color: black;
+  color: black;/*Cor do titulo do post*/
 }
 
 @media (max-width: 768px){
