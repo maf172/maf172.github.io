@@ -12,13 +12,13 @@
     font-weight: 800;
     padding: 13px;
     text-transform: uppercase;
-    color: $gray-400;
+    color: $gray-900;
   }
   .navbar-nav {
     > li.nav-item {
       > a {
         font-family: 'Cambria Math';
-        color: $gray-600;
+        color: $gray-900;
         font-size: 12px;
         font-weight: normal;
         letter-spacing: 2px;
@@ -31,7 +31,7 @@
     background: transparent;
     .navbar-brand {
       padding: 10px 20px;
-      color: $white;
+      color: black;
       &:focus,
       &:hover {
         color: fade-out($white, .2);
@@ -41,7 +41,7 @@
       > li.nav-item {
         > a {
           padding: 10px 20px;
-          color: $white;
+          color: black;
           &:focus,
           &:hover {
             color: fade-out($white, .2);
@@ -80,7 +80,7 @@
       .navbar-nav {
         > li.nav-item {
           > a {
-            color: rgba(255,255,255,.6);
+            color: black;
             &:focus,
             &:hover {
               color: white;
