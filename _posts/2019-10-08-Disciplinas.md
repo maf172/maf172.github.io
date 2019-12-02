@@ -9,7 +9,7 @@ Conhecendo o curso de licenciatura em matemática.
 =================================================
 
 **Texto de:** Joyce de Souza Sforzin; 
-
+**Apoio:** José Vitor Novaes Moreira e Guilherme Fernandes C. de Oliveira
 
 Todos quando estamos tentando descobrir qual curso fazer, passamos por
 alguns problemas da falta de informação e ficamos na dúvida “o que
