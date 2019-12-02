@@ -8,7 +8,9 @@ subtitle: Um pouco sobre o curso de Matemática de Florestal
 O que os alunos pensam sobre a UFV - Campus Florestal
 =================================================
 
-**Texto de:** Ananda Ribeiro Dias; 
+**Texto de:** Ananda Ribeiro Dias (Versão 2019)
+
+**Apoio:** José Vitor Novaes Moreira e Guilherme Fernandes C. de Oliveira 
 
  
 Foi realizada uma pesquisa entre alguns alunos do curso de Licenciatura em Matemática da UFV - Campus Florestal, com o objetivo de reunir opniões a respeito do campus e do curso em geral. Abaixo estão listadas as perguntas com as respectivas respostas obtidas.
