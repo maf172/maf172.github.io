@@ -18,7 +18,7 @@
     > li.nav-item {
       > a {
         font-family: 'Source Code Pro';
-        color: $gray-600;
+        color: $gray-900;
         font-size: 12px;
         font-weight: normal;
         letter-spacing: 2px;
@@ -31,7 +31,7 @@
     background: transparent;
     .navbar-brand {
       padding: 10px 20px;
-      color: $white;
+      color: $black;
       &:focus,
       &:hover {
         color: fade-out($white, .2);
@@ -41,7 +41,7 @@
       > li.nav-item {
         > a {
           padding: 10px 20px;
-          color: $white;
+          color: $black;
           &:focus,
           &:hover {
             color: fade-out($white, .2);
@@ -80,7 +80,7 @@
       .navbar-nav {
         > li.nav-item {
           > a {
-            color: rgba(255,255,255,.6);
+            color: rgba(100,100,100,.6);
             &:focus,
             &:hover {
               color: white;
