@@ -6,7 +6,7 @@
 }
 .post-preview {
   > a {
-    color: black;
+    color: black;/*Cor do Titulo dos posts*/
     &:focus,
     &:hover {
       text-decoration: none;
@@ -38,7 +38,7 @@
           display: flex;
           justify-content: center;
           > .post-title{
-
+            
           }
           > .post-meta {
             display: none;
@@ -48,7 +48,7 @@
             color: $gray-900;
             > a {
               text-decoration: none;
-              color: $gray-900;
+              color: $gray-900;/*Cor do Subtitulo dos posts*/
             }
           }
         }
@@ -57,7 +57,7 @@
           margin: 0;
         }
         > .post-subtitle {
-          color: gray900;
+          color: gray900;/*Cor do Subtitulo dos posts*/
           font-weight: 300;
           margin: 10px 0 10px;
           line-height: 1.7;
@@ -65,9 +65,9 @@
         }
       }
     }
-
+    
   }
-
+  
   @media only screen and (min-width: 768px) {
     > a {
       > .post-container{
@@ -85,7 +85,7 @@
             justify-content: space-between;
             > .post-title {
               font-size: 30px;
-              border: 2px solid white;
+              border: 2px solid black;/*Borda do titulo dos posts*/
               padding: 10px 20px;
               margin-right: 50px;
             }
@@ -94,15 +94,15 @@
             }
           }
         }
-
+        
       }
-
+      
     }
   }
 }
 
 .post-body{
-    text-align: justify;
+  text-align: justify;
 }
 
 h1[id]{
@@ -127,7 +127,7 @@ blockquote>p{
   color: azure;
   &::before{
     content: "|";
-    color: gray900;
+    color: red;
     font-weight: bold;
     font-size: 2em;
     font-style: normal;
@@ -147,8 +147,8 @@ blockquote>p{
 .tooltipcontainer .tooltiptext {
   visibility: hidden;
   background-color: #111;
-  color: #fff;
-  text-align: center;
+    color: #fff;
+    text-align: center;
   border-radius: 2px;
   padding: 2px 10px;
   position: absolute;
