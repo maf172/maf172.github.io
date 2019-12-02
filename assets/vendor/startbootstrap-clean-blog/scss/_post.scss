@@ -107,7 +107,7 @@
 
 h1[id]{
   display: inline-block;
-  border-bottom: 5px solid blue;
+  border-bottom: 5px solid #2fafaf;/*Linha abaixo do texto (sublinhado)*/
   line-height: 0.8;
   color: black;
 }
@@ -119,7 +119,7 @@ h1[id]{
   }
 }
 em{
-  color: azure;
+  color: black;
   padding: 0 10px;
 }
 
@@ -127,7 +127,7 @@ blockquote>p{
   color: azure;
   &::before{
     content: "|";
-    color: red;
+    color: blue;
     font-weight: bold;
     font-size: 2em;
     font-style: normal;
