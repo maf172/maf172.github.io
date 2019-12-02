@@ -4,7 +4,7 @@
 body {
   background-color: gray300;/*Cor de fundo da pagina*/
   font-size: 30px;// Tamanho das letras dos posts
-  color: rgba(50,50,50,0.9);
+  color: gray900;
   @include serif-font;
 }
 
