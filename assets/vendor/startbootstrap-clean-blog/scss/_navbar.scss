@@ -31,7 +31,7 @@
     background: transparent;
     .navbar-brand {
       padding: 10px 20px;
-      color: black;
+      color: $white;
       &:focus,
       &:hover {
         color: fade-out($white, .2);
@@ -41,7 +41,7 @@
       > li.nav-item {
         > a {
           padding: 10px 20px;
-          color: black;
+          color: $white;
           &:focus,
           &:hover {
             color: fade-out($white, .2);
@@ -80,7 +80,7 @@
       .navbar-nav {
         > li.nav-item {
           > a {
-            color: black;
+            color: rgba(255,255,255,.6);
             &:focus,
             &:hover {
               color: white;
