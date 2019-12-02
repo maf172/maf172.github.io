@@ -14,7 +14,7 @@ header.masthead {
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: $gray-900;/*Mudar a cor da font do cabecario*/
+    background-color: black;/*Mudar a cor da font do cabecario*/
     opacity: 0.5;
   }
   .page-heading,
@@ -28,7 +28,7 @@ header.masthead {
   }
   .page-heading{
     > h1{
-      font-family: 'Josefin Sans';
+      font-family: 'Josefin Sans';/*Cambria Math*/
       letter-spacing: -4px;
       line-height: 0.8;
       font-weight: 300;
@@ -47,7 +47,7 @@ header.masthead {
       line-height: 2;
       display: block;
       margin: 10px 0 0;
-      font-family: 'Nothing You Could Do', cursive;
+      font-family: 'Cambria Math';
     }
     @media only screen and (min-width: 768px) {
       h1 {
@@ -73,7 +73,7 @@ header.masthead {
       font-weight: 300;
       margin: 10px 0 30px;
       @include sans-serif-font;
-      font-family: 'Nothing You Could Do', cursive;
+      font-family: 'Cambria Math';
     }
     .meta {
       font-size: 20px;
